@@ -6,11 +6,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 🤝 I’m looking for help with **enhancing code**
-
-- 💬 Ask me about **front-end and back-end development and best coding practices**
+- 👯 Available to collaborate on **open source projects**
 
 - 📫 How to reach me **david.social91@gmail.com**
 
