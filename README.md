@@ -1,15 +1,15 @@
 <table>
   <tr>
+      <td align="left" width="50%">
+        <h1>Hi there 👋, I'm David!</h1>
+        <h3>A passionate Full-Stack Developer from Portugal</h3>         
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/640px-Flag_of_Portugal.svg.png" alt="Portugal Flag" width="24" height="16" />
+        <p>
+          I love building intuitive user interfaces, scalable back-end systems, and exploring creative ways to solve problems using tech.
+      </p>
+    </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daviconcha&show_icons=true&locale=en&layout=compact" alt="David's Top Languages" />
-    </td>
-    <td align="left" width="50%">
-      <h1>Hi there 👋, I'm David!</h1>
-      <h3>A passionate Full-Stack Developer from Portugal</h3>         
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/640px-Flag_of_Portugal.svg.png" alt="Portugal Flag" width="24" height="16" />
-      <p>
-        I love building intuitive user interfaces, scalable back-end systems, and exploring creative ways to solve problems using tech.
-      </p>
     </td>
   </tr>
 </table>
