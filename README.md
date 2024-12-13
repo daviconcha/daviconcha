@@ -63,7 +63,4 @@ I enjoy experimenting with new frameworks and constantly learning to expand my s
     <a href="https://fb.com/daviconcha" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
-    <br>
-    <br>
-    <strong>david.social91@gmail.com</strong>
 </p>
